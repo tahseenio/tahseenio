@@ -4,7 +4,6 @@
 <h3 align="center">I'm a hardworking Junior Frontend Engineer from Australia</h3>
 
 <br/>
-<br/>
 
 <div class="myWrapper" align="center" markdown="1">
 
