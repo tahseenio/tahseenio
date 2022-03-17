@@ -19,7 +19,6 @@
   ⚬ 📇  How to reach me: **tahseenislam@outlook.com.au**
 
 <br/>
-<br/>
 
 ## 🧰 Languages and Tools:
 
@@ -39,7 +38,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
 </p>
 
-<br/>
 <br/>
 
 <p align="center">
