@@ -16,7 +16,7 @@
 
   ⚬ ⭐ All of my projects are available at **[tahseen.com.au](https://tahseen.com.au/)**
 
-  ⚬ 📇  How to reach me: **tahseenislam@outlook.com.au**
+  ⚬ 📇  How to reach me: **tahseenislam@outlook.com.au** or via **[LinkedIn](https://www.linkedin.com/in/tahseen1/)**
 
 <br/>
 
