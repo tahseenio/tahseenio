@@ -26,7 +26,7 @@
 
   ⚬ 📖 I’m currently learning **React** and **Data Structures and Algorithms**
 
-  ⚬ ⭐ All of my projects are available at **[tahseen.com.au](https://tahseen.com.au/)**
+  ⚬ ⭐ All of my projects are available at [![Website Badge](https://img.shields.io/badge/-tahseen.com.au-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tahseen.com.au/)](https://tahseen.com.au/)
 
   ⚬ 📇  How to reach me: **tahseenislam@outlook.com.au** or via **[LinkedIn](https://www.linkedin.com/in/tahseen1/)**
 
