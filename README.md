@@ -14,7 +14,7 @@
 
   ⚬ 📖 I’m currently learning **React** and **Data Structures and Algorithms**
 
-  ⚬ ⭐ All of my projects are available at &nbsp; [![Website Badge](https://img.shields.io/badge/-tahseen.com.au-FF7139?style=flat&logo=Firefox-Browser&logoColor=white&link=https://tahseen.com.au/)](https://tahseen.com.au/)
+  ⚬ ⭐ All of my projects are available at &nbsp; [![Website Badge](https://img.shields.io/badge/-tahseen.com.au-0087e9?style=flat&logo=Firefox-Browser&logoColor=white&link=https://tahseen.com.au/)](https://tahseen.com.au/)
   
   
 
