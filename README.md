@@ -10,7 +10,7 @@
 ## 💡  About Me
   <br/>
 
-   ⚬ 👨‍💻 I’m currently working on a **[discord-clone](https://github.com/tahseenio/discord-clone)** in React
+   ⚬ 👨‍💻 I’m currently working on a **[Discord clone](https://github.com/tahseenio/discord-clone)** in React
 
   ⚬ 📖 I’m currently learning **React** and **Data Structures and Algorithms**
 
