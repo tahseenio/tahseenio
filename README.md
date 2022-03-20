@@ -5,7 +5,7 @@
 
 -----
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tahseen Islam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/tahseen1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Tahseen_Islam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/tahseen1/)
 [![Website Badge](https://img.shields.io/badge/-tahseen.com.au-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tahseen.com.au/)](https://tahseen.com.au/)
 [![Gmail Badge](https://img.shields.io/badge/-tahseenislam@outlook.com.au-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tahseenislam@outlook.com.au)](mailto:tahseenislam@outlook.com.au)
 
