@@ -18,7 +18,7 @@
   
   
 
-  ⚬ 📇  How to reach me: &nbsp; [![Mail Badge](https://img.shields.io/badge/-tahseenislam@outlook.com.au-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:tahseenislam@outlook.com.au)](mailto:tahseenislam@outlook.com.au) &nbsp; or via &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Tahseen_Islam-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/tahseen1/)
+  ⚬ 📇  Reach me at &nbsp; [![Mail Badge](https://img.shields.io/badge/-tahseenislam@outlook.com.au-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:tahseenislam@outlook.com.au)](mailto:tahseenislam@outlook.com.au) &nbsp; or &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Tahseen_Islam-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/tahseen1/)
 
 <br/>
 
