@@ -1,7 +1,7 @@
 <p align="center"><img width="273px" height="238px" src="https://i.imgur.com/qQ7dWV8.png"/></p>
 
 <h1 align="center">Hi, I'm Tahseen</h1>
-<h3 align="center">I'm a hardworking Junior Frontend Engineer from Australia</h3>
+<h3 align="center">I'm a hardworking Junior Frontend Engineer from an Engineering Background who currently resides in Brisbane, Australia</h3>
 
 <br/>
 
