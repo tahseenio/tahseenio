@@ -1,4 +1,3 @@
-<p align="center"><img width="273px" height="238px" src="https://i.imgur.com/qQ7dWV8.png"/></p>
 <p align="center"><img width="273px" height="238px" src="https://i.imgur.com/GEm7eEe.png"/></p>
 
 <h1 align="center">Hi, I'm Tahseen</h1>
