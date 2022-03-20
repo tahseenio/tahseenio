@@ -3,18 +3,6 @@
 <h1 align="center">Hi, I'm Tahseen</h1>
 <h3 align="center">I'm a hardworking Junior Frontend Engineer from an Engineering Background who currently resides in Brisbane, Australia</h3>
 
------
-
-[![Linkedin Badge](https://img.shields.io/badge/-Tahseen_Islam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/tahseen1/)
-[![Website Badge](https://img.shields.io/badge/-tahseen.com.au-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tahseen.com.au/)](https://tahseen.com.au/)
-[![Mail Badge](https://img.shields.io/badge/-tahseenislam@outlook.com.au-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tahseenislam@outlook.com.au)](mailto:tahseenislam@outlook.com.au)
-
-
------
-
-
-
-
 <br/>
 
 <div class="myWrapper" align="center" markdown="1">
