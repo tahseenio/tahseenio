@@ -1,5 +1,5 @@
 <p align="center"><img width="273px" height="238px" src="https://i.imgur.com/GEm7eEe.png"/></p>
-<iframe src="https://giphy.com/embed/D2N1zK8BiKZYOzI4fQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/D2N1zK8BiKZYOzI4fQ">via GIPHY</a></p>
+<p align="center"><img src="https://i.giphy.com/media/D2N1zK8BiKZYOzI4fQ/giphy.webp"/></p>
 
 
 <h1 align="center">Hi, I'm Tahseen</h1>
