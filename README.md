@@ -1,5 +1,5 @@
 <p align="center"><img width="273px" height="238px" src="https://i.imgur.com/GEm7eEe.png"/></p>
-<p align="center"><img width="273px" height="238px" src="https://i.giphy.com/media/D2N1zK8BiKZYOzI4fQ/giphy.webp"/></p>
+<p align="center"><img width="273px" src="https://i.giphy.com/media/D2N1zK8BiKZYOzI4fQ/giphy.webp"/></p>
 
 
 <h1 align="center">Hi, I'm Tahseen</h1>
