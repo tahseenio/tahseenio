@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Tahseen</h1>
-<h3 align="center">I'm a hardworking Junior Frontend Engineer from an Engineering Background who currently resides in Brisbane, Australia</h3>
+<h3 align="center">I'm a hardworking Junior Frontend Engineer who strives to create aesthetically appealing websites with the best possible user experience. </h3>
 
 <br/>
 
