@@ -39,8 +39,10 @@
     <a href="https://reactnative.dev/" target="_blank"> <img width="48px" src="https://i.imgur.com/tFxzoGe.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.adobe.com/au/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a> 
     <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
+    <a href="https://www.cypress.io/" target="_blank"> <img width="48px" src="https://i.imgur.com/P1Kyy6R.png"/> </a> 
+    <a href="https://jestjs.io/" target="_blank"> <img width="48px" src="https://i.imgur.com/L09Oq8G.png"/> </a>
+    <a href="https://threejs.org/" target="_blank"> <img width="48px" src="https://i.imgur.com/ZrANnmk.png"/> </a>
 </p>
 
 <br/>
