@@ -33,16 +33,19 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img width="40px" height="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://reactnative.dev/" target="_blank"> <img width="48px" src="https://i.imgur.com/tFxzoGe.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
-    <a href="https://www.cypress.io/" target="_blank"> <img width="48px" src="https://i.imgur.com/P1Kyy6R.png"/> </a> 
     <a href="https://jestjs.io/" target="_blank"> <img width="48px" src="https://i.imgur.com/L09Oq8G.png"/> </a>
+    <a href="https://www.cypress.io/" target="_blank"> <img width="48px" src="https://i.imgur.com/P1Kyy6R.png"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://threejs.org/" target="_blank"> <img width="48px" src="https://i.imgur.com/ZrANnmk.png"/> </a>
+    <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
+     
+    
+    
 </p>
 
 <br/>
