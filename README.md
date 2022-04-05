@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Tahseen</h1>
-<h3 align="center">I'm a hardworking Junior Frontend Developer who strives to create aesthetically appealing websites <br> with the best possible user experience. </h3>
+<h3 align="center">I'm a hardworking Frontend Developer who strives to create aesthetically appealing websites <br> with the best possible user experience. </h3>
 
 <br/>
 
