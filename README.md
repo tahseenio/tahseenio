@@ -13,7 +13,7 @@
 
    ⚬ 👨‍💻 I’m currently working on a **[Discord clone](https://github.com/tahseenio/discord-clone)** in React
 
-  ⚬ 📖 I’m currently expanding my skillset by learning **TypeScript**, **Sass**, **Jest** and **Cypress**.
+  ⚬ 📖 I’m currently expanding my skillset by learning **Sass**, **Jest**, **Cypress** and **Three.js**.
 
   ⚬ ⭐ All of my projects are available at &nbsp; [![Website Badge](https://img.shields.io/badge/-tahseen.com.au-0087e9?style=flat&logo=Firefox-Browser&logoColor=white&link=https://tahseen.com.au/)](https://tahseen.com.au/)
   
