@@ -74,12 +74,6 @@
 
 <br/>
 
-<p align="center">
-<a href="https://github.com/tahseenio/github-readme-activity-graph"><img alt="Tahseen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tahseenio&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</P>
-
-<br/>
-
 <div class="myWrapper" align="center" markdown="1">
 
 <br/>
