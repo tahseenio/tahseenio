@@ -11,7 +11,7 @@
 ## 💡  About Me
   <br/>
 
-   ⚬ 👨‍💻 I’m currently working on a **[Discord clone](https://github.com/tahseenio/discord-clone)** in React
+   ⚬ 👨‍💻 I’m currently working on a **[Web3 Application](https://github.com/tahseenio/the-metaverse)** in React
 
   ⚬ 📖 I’m currently expanding my skillset by learning **TypeScript**, **Jest** and **Cypress**.
 
