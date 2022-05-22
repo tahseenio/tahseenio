@@ -25,8 +25,6 @@
 
 <div class="myWrapper" align="center" markdown="1">
 
-<br/>
-
 ## 🧰 Languages and Tools:
 
 <br/>
