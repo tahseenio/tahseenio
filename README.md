@@ -55,23 +55,13 @@
     <a href="https://www.cypress.io/" target="_blank"> <img width="48px" src="https://i.imgur.com/P1Kyy6R.png"/> </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
-     
-    
-    
 </p>
 
-<br/>
-
-<p align="center">
-    <a href="https://github.com/tahseenio/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tahseen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tahseenio&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-  
+<div align="center" markdown="1">
   <br/>
     <a href="https://github.com/tahseenio/github-readme-stats"><img alt="Tahseen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahseenio&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br/>
-
+</div>
 
 <div class="myWrapper" align="center" markdown="1">
 
