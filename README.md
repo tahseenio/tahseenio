@@ -1,8 +1,5 @@
 <p align="center"><img width="273px" src="https://i.giphy.com/media/D2N1zK8BiKZYOzI4fQ/giphy.webp"></p>
 
-
-<h1 align="center">Hi, I'm Tahseen</h1>
-
 <div class="myWrapper" align="center" markdown="1">
 
 ## 💡  About Me
