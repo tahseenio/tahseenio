@@ -30,9 +30,7 @@
 <p align="center">
   <br/>
     <a href="https://github.com/tahseenio/github-readme-stats"><img alt="Tahseen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tahseenio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <a href="https://github.com/tahseenio/github-readme-stats"><img alt="Tahseen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahseenio&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  
 </P>
 
 <div class="myWrapper" align="center" markdown="1">
@@ -68,6 +66,10 @@
     <a href="https://github.com/tahseenio/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tahseen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tahseenio&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+  
+    <br/>
+    <a href="https://github.com/tahseenio/github-readme-stats"><img alt="Tahseen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahseenio&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
 </p>
 
 <div class="myWrapper" align="center" markdown="1">
