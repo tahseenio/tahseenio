@@ -13,7 +13,7 @@
   
   ⚬ 📇  Reach me at &nbsp; [![Mail Badge](https://img.shields.io/badge/-tahseenislam@outlook.com.au-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:tahseenislam@outlook.com.au)](mailto:tahseenislam@outlook.com.au) &nbsp; or &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Tahseen_Islam-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/tahseen1/)
   
-  ⚬ 🤝 I like to contribute to open source projects whenever I can. Some projects I have contributed to are: **[Mantine](https://github.com/mantinedev/mantine)** and **[reactjs.org](https://github.com/reactjs/reactjs.org)**
+  ⚬ 🤝 I like to contribute to open source projects whenever I can. Some projects I have contributed to are: **[Mantine](https://github.com/mantinedev/mantine)**, **[reactjs.org](https://github.com/reactjs/reactjs.org)** and **[Framer motion's Closed-sourced docs](https://github.com/framer)**
 
 <br/>
 
