@@ -5,7 +5,7 @@
 ## 💡  About Me
   <br/>
 
-  ⚬ 👨‍💻 I’m currently working on a **[Web3 Application](https://github.com/tahseenio/the-metaverse)** in React
+  ⚬ 👨‍💻 I’m currently working on a **[Chrome Extension for VRChat](https://github.com/tahseenio/vrchat-notes-chrome-extension)** in React
 
   ⚬ 📖 I’m currently expanding my skillset learning **TypeScript**.
 
