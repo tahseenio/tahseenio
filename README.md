@@ -2,7 +2,7 @@
 
 <div class="myWrapper" align="center" markdown="1">
 
-## About Me
+## Hi I'm Tahseen, here's a bit about me
 
 I'm currently studying my Bachelor's of Engineering at the University of Queensland and am very passionate about web development, in particular frontend development. I love creating web applications that have great aesthetics and an amazing user experience. 💻 I’m currently working on a **[Chrome Extension for VRChat](https://github.com/tahseenio/vrchat-notes-chrome-extension)** where users are able to create little notes about people they have met as this is something the VRChat website is missing. Whenever I am free I also like to contribute to open source projects.
     
