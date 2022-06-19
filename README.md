@@ -7,7 +7,7 @@
 I'm currently studying my Bachelor's of Engineering at the University of Queensland and am very passionate about web development, in particular frontend development. I love creating web applications that have great aesthetics and an amazing user experience. 💻 I’m currently working on a **[Chrome Extension for VRChat](https://github.com/tahseenio/vrchat-notes-chrome-extension)** where users are able to create little notes about people they have met as this is something the VRChat website is missing. Whenever I am free I also like to contribute to open source projects.
     
 <a href="https://tahseen.com.au">
-    <img src="https://img.shields.io/badge/ePortfolio-%23212121.svg?&style=for-the-badge" height=25>
+    <img src="https://img.shields.io/badge/ePORTFOLIO-green?style=for-the-badge" height=25>
 </a> 
 <a href="mailto:tahseenislam@outlook.com.au">
     <img src="https://img.shields.io/badge/EMAIL-blue?style=for-the-badge" height=25>
