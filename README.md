@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm currently studying my Bachelor's of Engineering at the University of Queensland and am very passionate about web development, in particular frontend development. I love creating web applications that have great aesthetics and an amazing user experience. Whenever I am free I also like to mess around with 3D modelling in Unity, or contribute to OSP projects when possible.
+I'm currently studying my Bachelor's of Engineering at the University of Queensland and am very passionate about web development, in particular frontend development. I love creating web applications that have great aesthetics and an amazing user experience. Whenever I am free I also like to contribute to OSP projects when possible or do 3D modelling in Unity,
     
 <a href="https://tahseen.com.au">
     <img src="https://img.shields.io/badge/ePORTFOLIO-green?style=for-the-badge" height=25>
