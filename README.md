@@ -12,7 +12,7 @@ I'm currently studying my Bachelor's of Engineering at the University of Queensl
 <a href="mailto:tahseenislam@outlook.com.au">
     <img src="https://img.shields.io/badge/EMAIL-blue?style=for-the-badge" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/tahseen1/">
+<a href="https://www.linkedin.com/in/tahseenislam1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 
