@@ -6,7 +6,7 @@
 
 Hi my name is Tahseen Islam and I am a passionate full stack developer with a focus on frontend development. I enjoy creating web applications that have great aesthetics and provide an amazing user experience.
 
-Currently I am working on expanding my knowledge in the backend in particular, Node.js, Express.js and PostgreSQL for the database.
+Currently I am working on expanding my knowledge in the backend in particular, Node.js, Express.js, PostgreSQL and user authentication and authorization using popular services such as NextAuth or Supabase.
     
 <a href="https://tahseen.com.au">
     <img src="https://img.shields.io/badge/ePORTFOLIO-green?style=for-the-badge" height=25>
