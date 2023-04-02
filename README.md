@@ -18,6 +18,18 @@ I'm currently studying my Bachelor's of Engineering at the University of Queensl
 
 <hr>
 
+<h3 align="center">Languages</h3>
+
+<h3 align="center">Frontend</h3>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+    ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+</p>
+
+<h3 align="center">Tools</h3>
+
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" >
