@@ -4,9 +4,9 @@
 
 ## About me
 
-Hi my name is Tahseen Islam and I am a 
+Hi my name is Tahseen Islam and I am a passionate full stack developer with a focus on frontend development. I enjoy creating web applications that have great aesthetics and provide an amazing user experience.
 
-I'm currently studying my Bachelor's of Engineering at the University of Queensland and am very passionate about web development. I love creating web applications that have great aesthetics and an amazing user experience. Whenever I am free I also like to contribute to OSP projects or expand my knowledge in React.
+Currently I am working on expanding my knowledge in the backend in particular. Node.js, Express.js and PostgreSQL for the database.
     
 <a href="https://tahseen.com.au">
     <img src="https://img.shields.io/badge/ePORTFOLIO-green?style=for-the-badge" height=25>
