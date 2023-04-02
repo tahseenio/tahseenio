@@ -4,6 +4,8 @@
 
 ## About me
 
+Hi my name is Tahseen Islam and I am a 
+
 I'm currently studying my Bachelor's of Engineering at the University of Queensland and am very passionate about web development. I love creating web applications that have great aesthetics and an amazing user experience. Whenever I am free I also like to contribute to OSP projects or expand my knowledge in React.
     
 <a href="https://tahseen.com.au">
@@ -15,8 +17,6 @@ I'm currently studying my Bachelor's of Engineering at the University of Queensl
 <a href="https://www.linkedin.com/in/tahseenislam1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-
-<hr>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -51,8 +51,6 @@ I'm currently studying my Bachelor's of Engineering at the University of Queensl
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" >
     <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" >
 </p>
-
-<a href="https://github.com/tahseenio/github-readme-stats"><img alt="Tahseen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahseenio&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <p align="center"><img alt="tahseenio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tahseenio&show_icons=true&hide_border=true&count_private=true&theme=react"></p>
 
